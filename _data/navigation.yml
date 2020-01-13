@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "CV"
-    url: /cv/
+    url: "https://ruochiz.github.io/files/cv.pdf"
 
   - title: "Publications"
     url: /publications/
