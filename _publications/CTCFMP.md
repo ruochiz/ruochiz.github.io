@@ -8,11 +8,14 @@ citation: '<b>Ruochi Zhang</b>, Yuchuan Wang, Yang Yang, Yang Zhang, Jian Ma.'
 ---  
 [[Download PDF]](https://ruochiz.github.io/files/bty248.pdf)
 
+---
+## Abstract
+
+
 <p align="center">
   <img src="https://ruochiz.github.io/images/CTCFMP_overview.png?raw=true" alt="Photo" style="width: 500px;"/> 
 </p>
 
-## Abstract
 ### Motivation
 The three dimensional organization of chromosomes within the cell nucleus is highly regulated. It is known that CCCTC-binding factor (CTCF) is an important architectural protein to mediate long-range chromatin loops. Recent studies have shown that the majority of CTCF binding motif pairs at chromatin loop anchor regions are in convergent orientation. However, it remains unknown whether the genomic context at the sequence level can determine if a convergent CTCF motif pair is able to form a chromatin loop.
 ### Results
