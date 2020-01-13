@@ -17,6 +17,11 @@
 }
 
 .page {
+  width: 83.05085%;
+    float: right;
+    margin-right: 0;
+    padding-left: 4.23729%;
+    padding-right: 16.94915%;
   @include breakpoint($large) {
     @include span(10 of 12 last);
     @include prefix(0.5 of 12);
