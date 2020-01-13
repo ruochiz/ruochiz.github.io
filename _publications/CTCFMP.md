@@ -3,10 +3,7 @@ title: "Predicting CTCF-mediated chromatin loops using CTCF-MP"
 collection: publications
 permalink: /publication/CTCFMP
 venue: 'ISMB 2018'
-paperurl: 'https://ruochiz.github.io/files/bty248.pdf'
 citation: '<b>Ruochi Zhang</b>, Yuchuan Wang, Yang Yang, Yang Zhang, Jian Ma.'
----
-This paper is about the number 1. The number 2 is left for future work.
 
 ---  
 [[Download PDF]](https://ruochiz.github.io/files/bty248.pdf)
