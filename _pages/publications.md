@@ -5,12 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+<b>[Predicting CTCF-mediated chromatin loops using CTCF-MP](http://ruochiz.github.io/publications/CTCFMP)</b> <br> 
+<b>Ruochi Zhang</b>, Yuchuan Wang, Yang Yang, Yang Zhang, Jian Ma.
+<i>in Proceedings of the 26th Conference on Intelligent Systems for Molecular Biology</i>. <b>ISMB 2018</b>.
+<i>Bioinformatics</i>, 34(13):i133–i141, 2018.
