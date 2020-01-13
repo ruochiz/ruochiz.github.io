@@ -9,16 +9,14 @@ author_profile: true
 Dechao Tian\*, <b>Ruochi Zhang\*</b>, Yang Zhang, Xiaopeng Zhu, Jian Ma. <br>
 <b>Genome Research</b>, doi: 10.1101/gr.250316.119, 2020.<br>
 
+<b>[Probing multi-way chromatin interaction with hypergraph representation learning]()</b><br>
+<b>Ruochi Zhang</b>, Jian Ma. <br>
+<b>RECOMB 2020</b>, <i>24th Annual Conference on Research in Computational Molecular Biology, 2020.</i>. <br>
 
 <b>[Hyper-SAGNN: a self-attention based graph neural network for hypergraphs]()</b><br>
 <b>Ruochi Zhang</b>, Yuesong Zou, Jian Ma. <br>
 <b>ICLR 2020</b>, <i>8th International Conference on Learning Representations</i>. <br>
 <b>arXiv</b>, arXiv:1911.02613 [cs.LG]
-
-
-<b>[Probing multi-way chromatin interaction with hypergraph representation learning]()</b><br>
-<b>Ruochi Zhang</b>, Jian Ma. <br>
-<b>RECOMB 2020</b>, <i>24th Annual Conference on Research in Computational Molecular Biology, 2020.</i>. <br>
 
 <b>[Predicting CTCF-mediated chromatin loops using CTCF-MP](https://ruochiz.github.io/publication/CTCFMP)</b> <br> 
 <b>Ruochi Zhang</b>, Yuchuan Wang, Yang Yang, Yang Zhang, Jian Ma.<br> 
