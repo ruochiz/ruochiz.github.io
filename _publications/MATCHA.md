@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/matcha
 venue: '<b>RECOMB 2020</b>'
 citation: '<b>Ruochi Zhang</b>, Jian Ma.'
-
+status: 'accept'
 ---  
 [[PDF (available soon)]]() [[Code(available soon)]]()
 

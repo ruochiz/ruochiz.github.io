@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/PEP
 venue: '<b> ISMB 2017</b>, <b>Bioinformatics</b>'
 citation: 'Yang Yang, <b>Ruochi Zhang</b>, Shashank Singh, Jian Ma.'
-
+status: 'publish'
 ---  
 [[PDF]](https://ruochiz.github.io/files/btx257.pdf) [[Code]](https://github.com/ma-compbio/PEP)
 

@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/mochi
 venue: '<b>Genome Research</b>'
 citation: 'Dechao Tian*, <b>Ruochi Zhang*</b> (co-first author), Yang Zhang, Xiaopeng Zhu, Jian Ma. '
-
+status: 'publish'
 ---  
 [[PDF]](https://ruochiz.github.io/files/mochi.pdf) [[Code]](https://github.com/ma-compbio/MOCHI)
 

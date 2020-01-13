@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/CTCFMP
 venue: '<b> ISMB 2018</b>, <b>Bioinformatics</b>'
 citation: '<b>Ruochi Zhang</b>, Yuchuan Wang, Yang Yang, Yang Zhang, Jian Ma.'
-
+status: 'publish'
 ---  
 [[PDF]](https://ruochiz.github.io/files/bty248.pdf) [[Code]](https://github.com/ma-compbio/CTCF-MP)
 

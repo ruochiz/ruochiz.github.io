@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/hypersagnn
 venue: '<b>ICLR 2020</b>'
 citation: '<b>Ruochi Zhang</b>, Yuesong Zou, Jian Ma.'
-
+status: 'accept'
 ---  
 [[PDF]](https://arxiv.org/pdf/1911.02613.pdf) [[Code]](https://drive.google.com/drive/folders/1kIOc4SlAJllUJsrr2OnZ4izIQIw2JexU)
 
