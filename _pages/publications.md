@@ -13,7 +13,7 @@ Dechao Tian\*, <b>Ruochi Zhang\*</b>, Yang Zhang, Xiaopeng Zhu, Jian Ma. <br>
 <b>Ruochi Zhang</b>, Jian Ma. <br>
 <b>RECOMB 2020</b>, <i>24th Annual Conference on Research in Computational Molecular Biology, 2020.</i>. <br>
 
-<b>[Hyper-SAGNN: a self-attention based graph neural network for hypergraphs]()</b><br>
+<b>[Hyper-SAGNN: a self-attention based graph neural network for hypergraphs](https://ruochiz.github.io/publication/hypersagnn)</b><br>
 <b>Ruochi Zhang</b>, Yuesong Zou, Jian Ma. <br>
 <b>ICLR 2020</b>, <i>8th International Conference on Learning Representations</i>. <br>
 <b>arXiv</b>, arXiv:1911.02613 [cs.LG]
