@@ -24,7 +24,7 @@ Dechao Tian\*, <b>Ruochi Zhang\*</b>, Yang Zhang, Xiaopeng Zhu, Jian Ma. <br>
 <b>Bioinformatics</b>, 34(13):i133–i141, 2018.
 
 
-<b>[Exploiting sequence-based features for predicting enhancer-promoter interactions]()</b> <br>
+<b>[Exploiting sequence-based features for predicting enhancer-promoter interactions](https://ruochiz.github.io/publication/PEP)</b> <br>
 Yang Yang, <b>Ruochi Zhang</b>, Shashank Singh, Jian Ma.<br> 
 <b>ISMB 2017</b>. <i>in Proceedings of the 25th Conference on Intelligent Systems for Molecular Biology</i>. <br> 
 <b>Bioinformatics</b>, 33(14): i252-i260, 2017.
