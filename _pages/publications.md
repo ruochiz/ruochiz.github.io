@@ -9,7 +9,7 @@ author_profile: true
 Dechao Tian\*, <b>Ruochi Zhang\*</b>, Yang Zhang, Xiaopeng Zhu, Jian Ma. <br>
 <b>Genome Research</b>, doi: 10.1101/gr.250316.119, 2020.<br>
 
-<b>[Probing multi-way chromatin interaction with hypergraph representation learning]()</b><br>
+<b>[Probing multi-way chromatin interaction with hypergraph representation learning](https://ruochiz.github.io/publication/matcha)</b><br>
 <b>Ruochi Zhang</b>, Jian Ma. <br>
 <b>RECOMB 2020</b>, <i>24th Annual Conference on Research in Computational Molecular Biology, 2020.</i>. <br>
 
