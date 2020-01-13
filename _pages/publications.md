@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<b>[MOCHI enables discovery of heterogeneous interactome modules in 3D nucleome]()</b><br>
+<b>[MOCHI enables discovery of heterogeneous interactome modules in 3D nucleome](https://ruochiz.github.io/publication/mochi)</b><br>
 Dechao Tian\*, <b>Ruochi Zhang\*</b>, Yang Zhang, Xiaopeng Zhu, Jian Ma. <br>
 <b>Genome Research</b>, doi: 10.1101/gr.250316.119, 2020.<br>
 
