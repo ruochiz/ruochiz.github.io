@@ -20,5 +20,5 @@ We also show that MATCHA is able to distinguish between multi-way interaction in
 In addition, the embeddings from MATCHA reflect 3D genome spatial localization and function. 
 MATCHA provides a promising framework to significantly improve the analysis of multi-way chromatin interaction data and has the potential to offer unique insights into higher-order chromosome organization and function.
 <p align="center">
-  <img src="https://ruochiz.github.io/images/MATCHA_overview.png?raw=true" alt="Photo" style="width: 500px;"/> 
+  <img src="https://ruochiz.github.io/images/MATCHA_overview.png?raw=true" alt="Photo" style="width: 800px;"/> 
 </p>
