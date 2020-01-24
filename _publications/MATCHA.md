@@ -6,8 +6,19 @@ venue: '<b>RECOMB 2020</b>'
 citation: '<b>Ruochi Zhang</b>, Jian Ma.'
 status: 'accept'
 ---  
-[[PDF (available soon)]]() [[Code(available soon)]]()
+[[PDF]](https://www.biorxiv.org/content/10.1101/2020.01.22.916171v1.full.pdf) [[Code]](https://github.com/ma-compbio/MATCHA)
 
 
 ## Abstract
-The advances in high-throughput genome organization mapping have enabled genome-wide characterization of chromatin interactions in 3D space within the nucleus.  However, proximity ligation based mapping approaches for pairwise chromatin interaction such as Hi-C cannot capture multi-way interactions, which are highly informative to delineate higher-order genome organization and gene regulation mechanisms.  The very recent development of multi-way chromatin interaction mapping methods such as ChIA-Drop and SPRITE has offered new opportunities to uncover simultaneous interactions involving multiple genomic loci. Unfortunately, existing methods for analyzing multi-way chromatin interaction data have limited capability of handling data noise and typically decompose each multi-way contact into pairwise ones, leading to a dramatic loss of higher-order information. Here we develop a new computational method called MATCHA based on hypergraph representation learning where multi-way chromatin interactions are represented as hypergraphs.   Applications to ChIA-Drop and SPRITE data suggest that MATCHA is able to achieve accurate predictions of multi-way chromatin interactions (i.e., hyperedges). We further demonstrate the effectiveness of MATCHA for denoising and de novo hyperedge prediction, reducing the potential false positives and false negatives from the original data.  Importantly, we show that MATCHA is able to distinguish between multi-way interactions (hyperedges) and combinations of pairwise interactions (cliques).  Taken together, MATCHA provides a promising framework to significantly improve the analysis of multi-way chromatin interaction data and has the potential to offer new insights into nuclear genome structure and function.
+Advances in high-throughput mapping of 3D genome organization have enabled genome-wide characterization of chromatin interactions.
+However, proximity ligation based mapping approaches for pairwise chromatin interaction such as Hi-C cannot capture multi-way interactions, which are informative to delineate higher-order genome organization and gene regulation mechanisms at single-nucleus resolution.
+The very recent development of ligation-free chromatin interaction mapping methods such as SPRITE and ChIA-Drop has offered new opportunities to uncover simultaneous interactions involving multiple genomic loci within the same nuclei. 
+Unfortunately, methods for analyzing multi-way chromatin interaction data are significantly underexplored.
+Here we develop a new computational method, called MATCHA, based on hypergraph representation learning where multi-way chromatin interactions are represented as hyperedges.
+Applications to SPRITE and ChIA-Drop data suggest that MATCHA is effective to denoise the data and make \textit{de novo} predictions of multi-way chromatin interactions, reducing the potential false positives and false negatives from the original data.
+We also show that MATCHA is able to distinguish between multi-way interaction in a single nucleus and combination of pairwise interactions in a cell population. 
+In addition, the embeddings from MATCHA reflect 3D genome spatial localization and function. 
+MATCHA provides a promising framework to significantly improve the analysis of multi-way chromatin interaction data and has the potential to offer unique insights into higher-order chromosome organization and function.
+<p align="center">
+  <img src="https://ruochiz.github.io/images/MATCHA_overview.png?raw=true" alt="Photo" style="width: 500px;"/> 
+</p>
