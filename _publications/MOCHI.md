@@ -18,5 +18,5 @@ The composition of the cell nucleus is highly heterogeneous, with different cons
 </p>
 
 <p>
-  <img src="https://ruochiz.github.io/images/MOCHI_cover.gif?raw=true" alt="Photo" style="width: 500px;"/> 
+  <img src="https://ruochiz.github.io/images/MOCHI_cover.jpg?raw=true" alt="Photo" style="width: 500px;"/> 
 </p>
