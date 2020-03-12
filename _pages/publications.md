@@ -5,6 +5,14 @@ permalink: /publications/
 author_profile: true
 ---
 
+<b>Large-scale CHANGE-seq CRISPR-Cas9 profiling reveals genetic and epigenetic determinants of genome-wide nuclease activity.</b><br>
+Lazzarotto CR, Malinin NL, Li Y, <b>Zhang R</b>, Yang Y, Lee G, Cowley E, He Y, Lan X, Jividen K, Katta V, Kolmakova NG, Petersen CT, Qi Q, Strelcov E, Maragh S, Krenciute G, Ma J, Cheng Y, and Tsai SQ.
+<b>Nature Biotechnology</b>, in press.
+
+<b>[SPIN reveals genome-wide landscape of nuclear compartmentalization](https://www.biorxiv.org/content/10.1101/2020.03.09.982967v1)</b><br>
+Yuchuan Wang, Yang Zhang, <b>Ruochi Zhang</b>, Tom van Schaik, Liguo Zhang, Takayo Sasaki, Daniel Peric-Hupkes, Yu Chen, David M Gilbert, Bas van Steensel, Andrew S. Belmont, Jian Ma<br>
+<b>bioRXiv</b>, doi: https://doi.org/10.1101/2020.03.09.982967
+
 <b>[MOCHI enables discovery of heterogeneous interactome modules in 3D nucleome](https://ruochiz.github.io/publication/mochi)</b><br>
 Dechao Tian\*, <b>Ruochi Zhang\*</b>, Yang Zhang, Xiaopeng Zhu, Jian Ma. <br>
 <b>Genome Research</b>, doi: 10.1101/gr.250316.119, 2020.<br>
