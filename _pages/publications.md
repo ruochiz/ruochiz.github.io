@@ -13,13 +13,14 @@ Lazzarotto CR, Malinin NL, Li Y, <b>Zhang R</b>, Yang Y, Lee G, Cowley E, He Y, 
 Yuchuan Wang, Yang Zhang, <b>Ruochi Zhang</b>, Tom van Schaik, Liguo Zhang, Takayo Sasaki, Daniel Peric-Hupkes, Yu Chen, David M Gilbert, Bas van Steensel, Andrew S. Belmont, Jian Ma<br>
 <b>bioRXiv</b>, doi: https://doi.org/10.1101/2020.03.09.982967 <br>
 
-<b>[MOCHI enables discovery of heterogeneous interactome modules in 3D nucleome](https://ruochiz.github.io/publication/mochi)</b><br>
-Dechao Tian\*, <b>Ruochi Zhang\*</b>, Yang Zhang, Xiaopeng Zhu, Jian Ma. <br>
-<b>Genome Research</b>, doi: 10.1101/gr.250316.119, 2020.<br>
-
 <b>[Probing multi-way chromatin interaction with hypergraph representation learning](https://ruochiz.github.io/publication/matcha)</b><br>
 <b>Ruochi Zhang</b>, Jian Ma. <br>
 <b>RECOMB 2020</b>, <i>24th Annual Conference on Research in Computational Molecular Biology, 2020</i>. <br>
+<b>Accepted by Cell System<br>
+
+<b>[MOCHI enables discovery of heterogeneous interactome modules in 3D nucleome](https://ruochiz.github.io/publication/mochi)</b><br>
+Dechao Tian\*, <b>Ruochi Zhang\*</b>, Yang Zhang, Xiaopeng Zhu, Jian Ma. <br>
+<b>Genome Research</b>, doi: 10.1101/gr.250316.119, 2020.<br>
 
 <b>[Hyper-SAGNN: a self-attention based graph neural network for hypergraphs](https://ruochiz.github.io/publication/hypersagnn)</b><br>
 <b>Ruochi Zhang</b>, Yuesong Zou, Jian Ma. <br>
