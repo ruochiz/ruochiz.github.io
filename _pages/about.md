@@ -17,5 +17,5 @@ redirect_from:
 
 
 # Recent News
-
+* [MATCHA](https://ruochiz.github.io/publication/matcha) paper is accepted by <i>Cell System</i>.
 * [MOCHI](https://ruochiz.github.io/publication/mochi) paper is selected by <i>Genome Research</i> as the Cover Article for the February issue [[CMU News]](https://www.scs.cmu.edu/news/exploring-genomes-3d-organization-through-social-network-lens).
