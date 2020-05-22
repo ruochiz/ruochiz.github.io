@@ -16,7 +16,7 @@ Yuchuan Wang, Yang Zhang, <b>Ruochi Zhang</b>, Tom van Schaik, Liguo Zhang, Taka
 <b>[Probing multi-way chromatin interaction with hypergraph representation learning](https://ruochiz.github.io/publication/matcha)</b><br>
 <b>Ruochi Zhang</b>, Jian Ma. <br>
 <b>RECOMB 2020</b>, <i>24th Annual Conference on Research in Computational Molecular Biology, 2020</i>. <br>
-Accepted by <b>Cell Systems<br>
+<b>Cell Systems</b>, doi: 10.1016/j.cels.2020.04.004, 2020.<br>
 
 <b>[MOCHI enables discovery of heterogeneous interactome modules in 3D nucleome](https://ruochiz.github.io/publication/mochi)</b><br>
 Dechao Tian\*, <b>Ruochi Zhang\*</b>, Yang Zhang, Xiaopeng Zhu, Jian Ma. <br>
