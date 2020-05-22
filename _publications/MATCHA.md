@@ -2,9 +2,9 @@
 title: "Probing multi-way chromatin interaction with hypergraph representation learning"
 collection: publications
 permalink: /publication/matcha
-venue: '<b>RECOMB 2020</b>'
+venue: '<b>RECOMB 2020</b>, , <b>Cell Systems</b>'
 citation: '<b>Ruochi Zhang</b>, Jian Ma.'
-status: 'accept'
+status: 'publish'
 ---  
 [[PDF]](https://www.biorxiv.org/content/10.1101/2020.01.22.916171v1.full.pdf) [[Code]](https://github.com/ma-compbio/MATCHA)
 
