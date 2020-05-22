@@ -10,7 +10,6 @@ status: 'publish'
 
 
 ## Abstract
-
 Advances in high-throughput mapping of 3D genome organization have enabled genome-wide characterization of chromatin interactions.
 However, proximity ligation based mapping approaches for pairwise chromatin interaction such as Hi-C cannot capture multi-way interactions, which are informative to delineate higher-order genome organization and gene regulation mechanisms at single-nucleus resolution.
 The very recent development of ligation-free chromatin interaction mapping methods such as SPRITE and ChIA-Drop has offered new opportunities to uncover simultaneous interactions involving multiple genomic loci within the same nuclei. 
