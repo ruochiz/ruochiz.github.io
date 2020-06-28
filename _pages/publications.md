@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<b>Large-scale CHANGE-seq CRISPR-Cas9 profiling reveals genetic and epigenetic determinants of genome-wide nuclease activity</b><br>
+<b>[Large-scale CHANGE-seq CRISPR-Cas9 profiling reveals genetic and epigenetic determinants of genome-wide nuclease activity](https://www.nature.com/articles/s41587-020-0555-7)</b><br>
 Cicera R. Lazzarotto , Nikolay L. Malinin , Yichao Li , <b>Ruochi Zhang</b> , Yang Yang , Yanghua He , Xin Lan , Kasey Jividen , Varun Katta , Natalia G. Kolmakova , Christopher T. Petersen , Qian Qi , Evgheni Strelcov , Samantha Maragh , Giedre Krenciute , Jian Ma , Yong Cheng , Shengdar Q. Tsai. <br>
 <b>Nature Biotechnology</b>, https://doi.org/10.1038/s41587-020-0555-7, 2020. <br>
 
