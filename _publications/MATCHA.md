@@ -6,7 +6,7 @@ venue: '<b>RECOMB 2020</b>, <b>Cell Systems</b>'
 citation: '<b>Ruochi Zhang</b>, Jian Ma.'
 status: 'publish'
 ---  
-[[PDF]](https://www.biorxiv.org/content/10.1101/2020.01.22.916171v1.full.pdf) [[Code]](https://github.com/ma-compbio/MATCHA)
+[[PDF]](https://www.cell.com/cell-systems/pdfExtended/S2405-4712(20)30147-2) [[Code]](https://github.com/ma-compbio/MATCHA)
 
 
 ## Abstract

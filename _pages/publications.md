@@ -11,7 +11,7 @@ Cicera R. Lazzarotto , Nikolay L. Malinin , Yichao Li , <b>Ruochi Zhang</b> , Ya
 
 <b>[SPIN reveals genome-wide landscape of nuclear compartmentalization](https://www.biorxiv.org/content/10.1101/2020.03.09.982967v1)</b><br>
 Yuchuan Wang, Yang Zhang, <b>Ruochi Zhang</b>, Tom van Schaik, Liguo Zhang, Takayo Sasaki, Daniel Peric-Hupkes, Yu Chen, David M Gilbert, Bas van Steensel, Andrew S. Belmont, Jian Ma. <br>
-<b>bioRXiv</b>, doi: https://doi.org/10.1101/2020.03.09.982967 <br>
+<b>bioRxiv</b>, doi: https://doi.org/10.1101/2020.03.09.982967 <br>
 
 <b>[Probing multi-way chromatin interaction with hypergraph representation learning](https://ruochiz.github.io/publication/matcha)</b><br>
 <b>Ruochi Zhang</b>, Jian Ma. <br>
