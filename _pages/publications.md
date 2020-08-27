@@ -19,7 +19,7 @@ Yuchuan Wang, Yang Zhang, <b>Ruochi Zhang</b>, Tom van Schaik, Liguo Zhang, Taka
 <b>Cell Systems</b>, doi: 10.1016/j.cels.2020.04.004, 2020.<br>
 
 <b>[MOCHI enables discovery of heterogeneous interactome modules in 3D nucleome](https://ruochiz.github.io/publication/mochi)</b><br>
-Dechao Tian\*, <b>Ruochi Zhang\*</b>, Yang Zhang, Xiaopeng Zhu, Jian Ma. <br>
+Dechao Tian\*, <b>Ruochi Zhang\*</b>(co-first author), Yang Zhang, Xiaopeng Zhu, Jian Ma. <br>
 <b>Genome Research</b>, doi: 10.1101/gr.250316.119, 2020.<br>
 
 <b>[Hyper-SAGNN: a self-attention based graph neural network for hypergraphs](https://ruochiz.github.io/publication/hypersagnn)</b><br>
