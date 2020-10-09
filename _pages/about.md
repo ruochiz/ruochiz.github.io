@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-* I am a 3rd year Ph.D. student in the [Computational Biology Department, School of Computer Science](http://www.compbio.cmu.edu) at [Carnegie Mellon University](https://www.cmu.edu), advised by Prof. [Jian Ma](https://www.cs.cmu.edu/~jianma/).
+* I am a 4th year Ph.D. student in the [Computational Biology Department, School of Computer Science](http://www.compbio.cmu.edu) at [Carnegie Mellon University](https://www.cmu.edu), advised by Prof. [Jian Ma](https://www.cs.cmu.edu/~jianma/).
 * I am also a Master student in Machine Learning (secondary degree program)
 * I received my Bachelor’s degree in [Tsinghua University](http://tsinghua.edu.cn) 
     * Thesis: Uncovering sequence determinants of RNA-editing by deep learning
@@ -17,5 +17,6 @@ redirect_from:
 
 
 # Recent News
+* 09/18/2020 - I received the Outstanding Research Accomplishment Award 2020 from the department.
 * [MATCHA](https://ruochiz.github.io/publication/matcha) paper is accepted by <i>Cell Systems</i>.
 * [MOCHI](https://ruochiz.github.io/publication/mochi) paper is selected by <i>Genome Research</i> as the Cover Article for the February issue [[CMU News]](https://www.scs.cmu.edu/news/exploring-genomes-3d-organization-through-social-network-lens).
