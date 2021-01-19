@@ -13,16 +13,15 @@ author_profile: true
 
 <b>[DANGO: Predicting higher-order genetic interactions](https://ruochiz.github.io/publication/dango)</b><br>
 <b>Ruochi Zhang</b>, Jianzhu Ma\*, Jian Ma\*. <br>
-Accepted by <b>RECOMB 2021</b>, <i>25th Annual Conference on Research in Computational Molecular Biology, 2021</i>. <br>
-
-
-<b>[Large-scale CHANGE-seq CRISPR-Cas9 profiling reveals genetic and epigenetic determinants of genome-wide nuclease activity](https://www.nature.com/articles/s41587-020-0555-7)</b><br>
-Cicera R. Lazzarotto , Nikolay L. Malinin , Yichao Li , <b>Ruochi Zhang</b> , Yang Yang , Yanghua He , Xin Lan , Kasey Jividen , Varun Katta , Natalia G. Kolmakova , Christopher T. Petersen , Qian Qi , Evgheni Strelcov , Samantha Maragh , Giedre Krenciute , Jian Ma , Yong Cheng , Shengdar Q. Tsai. <br>
-<b>Nature Biotechnology</b>, https://doi.org/10.1038/s41587-020-0555-7, 2020. <br>
+<b>RECOMB 2021</b>, <i>25th Annual Conference on Research in Computational Molecular Biology, 2021</i>. <br>
 
 <b>[SPIN reveals genome-wide landscape of nuclear compartmentalization](https://www.biorxiv.org/content/10.1101/2020.03.09.982967v1)</b><br>
 Yuchuan Wang, Yang Zhang, <b>Ruochi Zhang</b>, Tom van Schaik, Liguo Zhang, Takayo Sasaki, Daniel Peric-Hupkes, Yu Chen, David M Gilbert, Bas van Steensel, Andrew S. Belmont, Jian Ma. <br>
-<b>bioRxiv</b>, doi: https://doi.org/10.1101/2020.03.09.982967 <br>
+<b>Genome Biology</b>, doi: 10.1186/s13059-020-02253-3, 2021. <br>
+
+<b>[Large-scale CHANGE-seq CRISPR-Cas9 profiling reveals genetic and epigenetic determinants of genome-wide nuclease activity](https://www.nature.com/articles/s41587-020-0555-7)</b><br>
+Cicera R. Lazzarotto , Nikolay L. Malinin , Yichao Li , <b>Ruochi Zhang</b> , Yang Yang , Yanghua He , Xin Lan , Kasey Jividen , Varun Katta , Natalia G. Kolmakova , Christopher T. Petersen , Qian Qi , Evgheni Strelcov , Samantha Maragh , Giedre Krenciute , Jian Ma , Yong Cheng , Shengdar Q. Tsai. <br>
+<b>Nature Biotechnology</b>, 10.1038/s41587-020-0555-7, 2020. <br>
 
 <b>[Probing multi-way chromatin interaction with hypergraph representation learning](https://ruochiz.github.io/publication/matcha)</b><br>
 <b>Ruochi Zhang</b>, Jian Ma. <br>
