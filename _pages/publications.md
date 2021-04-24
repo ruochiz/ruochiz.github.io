@@ -5,6 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
+
+<b>[The 3D Genome Structure of Single Cells](https://www.annualreviews.org/doi/abs/10.1146/annurev-biodatasci-020121-084709)</b><br>
+Tianming Zhou\*, <b>Ruochi Zhang\*(co-first author)</b>, Jian Ma. <br>
+<b>Annual Review of Biomedical Data Science</b>, doi: https://doi.org/10.1146/annurev-biodatasci-020121-084709 <br>
+
 <b>[Multiscale and integrative single-cell Hi-C analysis with Higashi](https://ruochiz.github.io/publication/higashi)</b><br>
 <b>Ruochi Zhang</b>, Tianming Zhou, Jian Ma. <br>
 <b>bioRxiv</b>, doi: https://doi.org/10.1101/2020.12.13.422537 <br>
