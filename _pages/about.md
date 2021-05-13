@@ -17,6 +17,7 @@ redirect_from:
 
 
 # Recent News
+* Our review article on single-cell 3D genome analysis is now published at AnnualReviews
 * DANGO is accepted by <i>RECOMB 2021</i>
 * I received the Outstanding Research Accomplishment Award 2020 from the department.
 * [MATCHA](https://ruochiz.github.io/publication/matcha) paper is accepted by <i>Cell Systems</i>.
